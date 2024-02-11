@@ -5,4 +5,5 @@
     <color name="dark_grey">#c9cbcc</color>
     <color name="green">#63d2c7</color>
     <color name="background">#e4e7e8</color>
+    <color name="card_bg">#E3E9EC</color>
 </resources>
